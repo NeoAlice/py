@@ -19,6 +19,7 @@ for i in lst:
     else:s[1]='Male'
     k=int(s[2])*0.2+int(s[3])*0.8
     print('{0:<20}{1:<10}{2:<5.1f}'.format(s[0],s[1],k))
+'fefefefefe'
 
 
 
